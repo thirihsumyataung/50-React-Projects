@@ -1,6 +1,6 @@
 # React-Small-Projects ✨
 
-# Deployed "project 2: Restaurant near me" on Netlify 
+# Deployed on Netlify 
 
 ### UseState 
 
