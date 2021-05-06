@@ -1,4 +1,4 @@
-# React-Small-Projects
+# React-Small-Projects ✨
 
 # Deployed "project 2: Restaurant near me" on Netlify 
 
