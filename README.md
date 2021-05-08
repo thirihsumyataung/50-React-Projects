@@ -5,8 +5,9 @@
 ### React-Icons 
 https://react-icons.github.io/react-icons/icons?name=fa
 
+--------------------------------------------
+### Note: 
 
-### eg: "
 ### import { FaBeer } from 'react-icons/fa';
 
 ### class Question extends React.Component {
@@ -14,7 +15,7 @@ https://react-icons.github.io/react-icons/icons?name=fa
 ###    return <h3> Lets go for a <FaBeer />? </h3>
 ###  }
 }
-
+--------------------------------------------
 ### UseState 
 
 - project 1 : Birthday Reminder 
