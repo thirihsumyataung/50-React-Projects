@@ -2,13 +2,26 @@
 
 # Deployed on Netlify 
 
+### ⚙️ React-Icons 
+https://react-icons.github.io/react-icons/icons?name=fa
 
-### UseState 
+--------------------------------------------
+### Note: 
+
+### import { FaBeer } from 'react-icons/fa';
+
+### class Question extends React.Component {
+###  render() {
+###    return <h3> Lets go for a <FaBeer />? </h3>
+###  }
+}
+--------------------------------------------
+### ① UseState 
 
 - project 1 : Birthday Reminder 
 - project 2 : Restaurant near me [![Netlify Status](https://api.netlify.com/api/v1/badges/58fa86f8-52fe-4f16-b191-89f2770d9e41/deploy-status)](https://app.netlify.com/sites/restaurant-near-you-small-app/deploys) https://restaurant-near-you-small-app.netlify.app
 
-### UseEffect 
+### ② UseEffect 
 
 - Fetching data [![Netlify Status](https://api.netlify.com/api/v1/badges/42a28b5c-021e-4d7a-8363-57b7b53a65db/deploy-status)](https://app.netlify.com/sites/github-users-small-app/deploys)
 https://github-users-small-app.netlify.app/
@@ -20,3 +33,5 @@ https://github-users-small-app.netlify.app/
 - project 5: Accordion ---> Login Questions and Answer Themes [![Netlify Status](https://api.netlify.com/api/v1/badges/d71342c7-b9c0-4ebc-adfe-a88e5720e164/deploy-status)](https://app.netlify.com/sites/login-questions-and-answers-small-app/deploys)https://login-questions-and-answers-small-app.netlify.app/
 
 - project 6 : Weather App [![Netlify Status](https://api.netlify.com/api/v1/badges/186037fa-802e-4d62-93ce-e7ee6e98a9de/deploy-status)](https://app.netlify.com/sites/dazzling-beaver-273a6a/deploys) https://my-weather-app-project.netlify.app/
+
+- project 7 : Random Quote Generator[![Netlify Status](https://api.netlify.com/api/v1/badges/94328834-ed86-49b3-be09-51422d23c022/deploy-status)](https://app.netlify.com/sites/daily-random-quotes-generator/deploys) https://daily-random-quotes-generator.netlify.app/
