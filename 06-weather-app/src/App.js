@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import React, { useState } from 'react';
-import { BsArrowRepeat } from 'react-icons/bs'; 
 import './App.css';
 
 const api = {
