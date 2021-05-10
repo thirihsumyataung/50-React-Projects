@@ -38,6 +38,6 @@ https://github-users-small-app.netlify.app/
 
 - project 8: Restaurant Menu [![Netlify Status](https://api.netlify.com/api/v1/badges/55fbc352-9db7-4d6e-89a3-82195896f285/deploy-status)](https://app.netlify.com/sites/small-restaurant-menu/deploys) https://small-restaurant-menu.netlify.app/
 
-- project 9: Tabs [![Netlify Status](https://api.netlify.com/api/v1/badges/f7a04b82-00aa-43ff-9ebc-c53cf5346cf0/deploy-status)](https://app.netlify.com/sites/small-tabs-app/deploys)
+- project 9: Tabs [![Netlify Status](https://api.netlify.com/api/v1/badges/f7a04b82-00aa-43ff-9ebc-c53cf5346cf0/deploy-status)]https://small-tabs-app.netlify.app/
 
 - project 10: slider [![Netlify Status](https://api.netlify.com/api/v1/badges/3235f1d8-206b-42dd-aa82-34973f1d4301/deploy-status)](https://app.netlify.com/sites/small-slider-app/deploys)https://small-slider-app.netlify.app/
