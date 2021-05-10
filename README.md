@@ -21,7 +21,7 @@ https://react-icons.github.io/react-icons/icons?name=fa
 - project 1 : Birthday Reminder 
 - project 2 : Restaurant near me [![Netlify Status](https://api.netlify.com/api/v1/badges/58fa86f8-52fe-4f16-b191-89f2770d9e41/deploy-status)](https://app.netlify.com/sites/restaurant-near-you-small-app/deploys) https://restaurant-near-you-small-app.netlify.app
 
-### ② UseEffect 
+### ② UseEffect and conditional rendering
 
 - Fetching data [![Netlify Status](https://api.netlify.com/api/v1/badges/42a28b5c-021e-4d7a-8363-57b7b53a65db/deploy-status)](https://app.netlify.com/sites/github-users-small-app/deploys)
 https://github-users-small-app.netlify.app/
@@ -35,3 +35,9 @@ https://github-users-small-app.netlify.app/
 - project 6 : Weather App [![Netlify Status](https://api.netlify.com/api/v1/badges/186037fa-802e-4d62-93ce-e7ee6e98a9de/deploy-status)](https://app.netlify.com/sites/dazzling-beaver-273a6a/deploys) https://my-weather-app-project.netlify.app/
 
 - project 7 : Random Quote Generator[![Netlify Status](https://api.netlify.com/api/v1/badges/94328834-ed86-49b3-be09-51422d23c022/deploy-status)](https://app.netlify.com/sites/daily-random-quotes-generator/deploys) https://daily-random-quotes-generator.netlify.app/
+
+- project 8: Restaurant Menu [![Netlify Status](https://api.netlify.com/api/v1/badges/55fbc352-9db7-4d6e-89a3-82195896f285/deploy-status)](https://app.netlify.com/sites/small-restaurant-menu/deploys) https://small-restaurant-menu.netlify.app/
+
+- project 9: Tabs [![Netlify Status](https://api.netlify.com/api/v1/badges/f7a04b82-00aa-43ff-9ebc-c53cf5346cf0/deploy-status)] https://small-tabs-app.netlify.app/
+
+- project 10: slider [![Netlify Status](https://api.netlify.com/api/v1/badges/3235f1d8-206b-42dd-aa82-34973f1d4301/deploy-status)](https://app.netlify.com/sites/small-slider-app/deploys)https://small-slider-app.netlify.app/
