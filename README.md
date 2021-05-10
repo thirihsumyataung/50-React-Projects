@@ -35,3 +35,5 @@ https://github-users-small-app.netlify.app/
 - project 6 : Weather App [![Netlify Status](https://api.netlify.com/api/v1/badges/186037fa-802e-4d62-93ce-e7ee6e98a9de/deploy-status)](https://app.netlify.com/sites/dazzling-beaver-273a6a/deploys) https://my-weather-app-project.netlify.app/
 
 - project 7 : Random Quote Generator[![Netlify Status](https://api.netlify.com/api/v1/badges/94328834-ed86-49b3-be09-51422d23c022/deploy-status)](https://app.netlify.com/sites/daily-random-quotes-generator/deploys) https://daily-random-quotes-generator.netlify.app/
+
+- project 8: Restaurant Menu [![Netlify Status](https://api.netlify.com/api/v1/badges/55fbc352-9db7-4d6e-89a3-82195896f285/deploy-status)](https://app.netlify.com/sites/small-restaurant-menu/deploys) https://small-restaurant-menu.netlify.app/
