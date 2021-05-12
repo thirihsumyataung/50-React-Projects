@@ -10,12 +10,8 @@ https://react-icons.github.io/react-icons/icons?name=fa
 
 ### import { FaBeer } from 'react-icons/fa';
 
-### class Question extends React.Component {
-###  render() {
-###    return <h3> Lets go for a <FaBeer />? </h3>
-###  }
-}
---------------------------------------------
+ 
+------------------------------------------
 ### ① UseState 
 
 - project 1 : Birthday Reminder 
@@ -41,3 +37,7 @@ https://github-users-small-app.netlify.app/
 - project 9: Tabs [![Netlify Status](https://api.netlify.com/api/v1/badges/f7a04b82-00aa-43ff-9ebc-c53cf5346cf0/deploy-status)] https://small-tabs-app.netlify.app/
 
 - project 10: slider [![Netlify Status](https://api.netlify.com/api/v1/badges/3235f1d8-206b-42dd-aa82-34973f1d4301/deploy-status)](https://app.netlify.com/sites/small-slider-app/deploys)https://small-slider-app.netlify.app/
+
+- project 11: Iorem-Ipsum 
+
+- project 12: Color Generator [![Netlify Status](https://api.netlify.com/api/v1/badges/fd1c7120-ad9a-40e7-95dd-589e897a52d0/deploy-status)](https://app.netlify.com/sites/goofy-nobel-f03063/deploys) https://color-generator-by-thiri.netlify.app/
