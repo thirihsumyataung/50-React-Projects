@@ -29,10 +29,8 @@ const Sidebar = () => {
               }
             </div>
           </article>
-        })
-        
-        }
-        
+        })       
+        }       
       </div>
     </div>
   </aside> 
