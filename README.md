@@ -62,3 +62,8 @@ https://practice-for-shopping-cart-project-by-thiriaung.netlify.app/
 ### ⑤ useCallback , useMemo, useGlobalContext
 
 - project 18 : Cocktails  [![Netlify Status](https://api.netlify.com/api/v1/badges/2fa25b36-b8e4-499e-a655-9e5f24d9dcb7/deploy-status)](https://app.netlify.com/sites/cocktail-project-practice-by-thirihsumyataung/deploys)    https://cocktail-project-practice-by-thirihsumyataung.netlify.app/
+
+### ⑥ Markdown 
+
+- You can check Markdown Cheat Sheet Here 📌
+https://www.markdownguide.org/cheat-sheet/
