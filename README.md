@@ -69,3 +69,5 @@ https://practice-for-shopping-cart-project-by-thiriaung.netlify.app/
 https://www.markdownguide.org/cheat-sheet/
 
 - project 19 : Markdown preview project [![Netlify Status](https://api.netlify.com/api/v1/badges/bd879377-804a-4668-a0c4-eb742505a2a4/deploy-status)](https://app.netlify.com/sites/markdown-preview-project-by-thiriaung/deploys)https://markdown-preview-project-by-thiriaung.netlify.app/
+
+- project 20 : Random User App [![Netlify Status](https://api.netlify.com/api/v1/badges/3a13acfb-8a38-446d-a346-8b461d7f5301/deploy-status)](https://app.netlify.com/sites/random-user-app-by-thirihsumyataung/deploys) https://random-user-app-by-thirihsumyataung.netlify.app/
