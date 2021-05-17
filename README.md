@@ -56,3 +56,7 @@ https://github-users-small-app.netlify.app/
 - project 16 : Submenu project [![Netlify Status](https://api.netlify.com/api/v1/badges/1ba9edc2-6bd1-4125-9177-b4be168a9d1f/deploy-status)](https://app.netlify.com/sites/submenu-project-practice-by-thiriaung/deploys)
 https://submenu-project-practice-by-thiriaung.netlify.app/
 
+- project 17 : Shopping Cart [![Netlify Status](https://api.netlify.com/api/v1/badges/780a6996-a7c6-41f2-ac42-c642b787b06a/deploy-status)](https://app.netlify.com/sites/practice-for-shopping-cart-project-by-thiriaung/deploys) 
+https://practice-for-shopping-cart-project-by-thiriaung.netlify.app/
+
+- project 18 : Cocktails  [![Netlify Status](https://api.netlify.com/api/v1/badges/2fa25b36-b8e4-499e-a655-9e5f24d9dcb7/deploy-status)](https://app.netlify.com/sites/cocktail-project-practice-by-thirihsumyataung/deploys)    https://cocktail-project-practice-by-thirihsumyataung.netlify.app/
