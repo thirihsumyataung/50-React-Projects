@@ -10,7 +10,7 @@ const Photo = ({urls: {regular}, alt_description, likes, user: {name, portfolio_
       <p>{likes} likes</p>
       </div>
       <a href={portfolio_url}>
-      <img src={medium} alt={name} className="user-img"/> 
+      <img src={medium} alt={name} className="user-img"/>
       </a>
       
       
