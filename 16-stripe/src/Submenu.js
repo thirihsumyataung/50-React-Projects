@@ -35,7 +35,6 @@ const Submenu = () => {
   
   </aside>); 
 }
-
 export default Submenu
 
 // Amount of column will change according to the links 

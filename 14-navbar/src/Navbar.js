@@ -15,8 +15,7 @@ const Navbar = () => {
     // To adjust the height of the link container 
     const linkHeight = linkRef.current.getBoundingClientRect().height;
     if (showLinks) {
-      linkContainerRef.current.style.height = `${linkHeight}px`;
-      
+      linkContainerRef.current.style.height = `${linkHeight}px`;     
     }
     else {
       linkContainerRef.current.style.height = '0px'; 
