@@ -72,4 +72,4 @@ https://www.markdownguide.org/cheat-sheet/
 
 - project 20 : Random User App [![Netlify Status](https://api.netlify.com/api/v1/badges/3a13acfb-8a38-446d-a346-8b461d7f5301/deploy-status)](https://app.netlify.com/sites/random-user-app-by-thirihsumyataung/deploys) https://random-user-app-by-thirihsumyataung.netlify.app/
 
-- project 21 : Pagination  [![Netlify Status](https://api.netlify.com/api/v1/badges/bec2a155-6123-48ef-8944-22fa60329194/deploy-status)](https://app.netlify.com/sites/github-user-pagination-project-by-thirihsumyataung/deploys)https://github-user-pagination-proj
+- project 21 : Girhub user Pagination  [![Netlify Status](https://api.netlify.com/api/v1/badges/bec2a155-6123-48ef-8944-22fa60329194/deploy-status)](https://app.netlify.com/sites/github-user-pagination-project-by-thirihsumyataung/deploys)https://github-user-pagination-proj
