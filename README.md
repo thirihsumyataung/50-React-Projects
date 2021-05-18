@@ -75,3 +75,5 @@ https://www.markdownguide.org/cheat-sheet/
 - project 21 : Girhub user Pagination  [![Netlify Status](https://api.netlify.com/api/v1/badges/bec2a155-6123-48ef-8944-22fa60329194/deploy-status)](https://app.netlify.com/sites/github-user-pagination-project-by-thirihsumyataung/deploys)https://github-user-pagination-proj
 
 - project 22 : Stock Photos 📸
+
+- project 23 : Background Theme Mode👑 [![Netlify Status](https://api.netlify.com/api/v1/badges/8767cfdc-5468-4c2f-afb3-bfe619dc005d/deploy-status)](https://app.netlify.com/sites/theme-toggle-by-thiriaung/deploys)https://theme-toggle-by-thiriaung.netlify.app/
