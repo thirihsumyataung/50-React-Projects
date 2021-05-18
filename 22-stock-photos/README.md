@@ -20,3 +20,5 @@
  //eslint-disable-next-line 
 
  ```
+
+7. > check your authentication API at https://unsplash.com/oauth/applications
