@@ -1,4 +1,4 @@
-# React-Small-Projects ✨
+# ⑤⓪ React Projects ✨
 
 # Deployed on Netlify 
 
