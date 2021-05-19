@@ -76,4 +76,8 @@ https://www.markdownguide.org/cheat-sheet/
 
 - project 22 : Stock Photos 📸
 
+### ⑦ MomentJS
 - project 23 : Background Theme Mode👑 [![Netlify Status](https://api.netlify.com/api/v1/badges/8767cfdc-5468-4c2f-afb3-bfe619dc005d/deploy-status)](https://app.netlify.com/sites/theme-toggle-by-thiriaung/deploys)https://theme-toggle-by-thiriaung.netlify.app/
+
+### ⑧ React-Router-Dom and useFetch:REfactor to useFetch
+- project 24 : Movie DB 🎞 🎬 [![Netlify Status](https://api.netlify.com/api/v1/badges/bf05476b-2643-4cc9-9840-b824f7be7603/deploy-status)](https://app.netlify.com/sites/movie-db-by-thirihsumyataung/deploys) https://movie-db-by-thirihsumyataung.netlify.app/ 
