@@ -81,3 +81,5 @@ https://www.markdownguide.org/cheat-sheet/
 
 ### ⑧ React-Router-Dom and useFetch:REfactor to useFetch
 - project 24 : Movie DB 🎞 🎬 [![Netlify Status](https://api.netlify.com/api/v1/badges/bf05476b-2643-4cc9-9840-b824f7be7603/deploy-status)](https://app.netlify.com/sites/movie-db-by-thirihsumyataung/deploys) https://movie-db-by-thirihsumyataung.netlify.app/ 
+
+- project 25 : Hacker News 📰 [![Netlify Status](https://api.netlify.com/api/v1/badges/7856f10b-9e36-4df1-ab5b-5d185cc85531/deploy-status)](https://app.netlify.com/sites/hacker-news-project-by-thiriaung/deploys) https://hacker-news-project-by-thiriaung.netlify.app/
