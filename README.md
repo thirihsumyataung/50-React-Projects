@@ -84,4 +84,5 @@ https://www.markdownguide.org/cheat-sheet/
 
 - project 25 : Hacker News 📰 [![Netlify Status](https://api.netlify.com/api/v1/badges/7856f10b-9e36-4df1-ab5b-5d185cc85531/deploy-status)](https://app.netlify.com/sites/hacker-news-project-by-thiriaung/deploys) https://hacker-news-project-by-thiriaung.netlify.app/
 
+### ⑧ Axios 
 - project 26: Quiz 🧠 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf60feba-8d97-44de-b919-9b7de1edc8b2/deploy-status)](https://app.netlify.com/sites/quiz-project-by-thirihsumyataung/deploys) https://quiz-project-by-thirihsumyataung.netlify.app/
