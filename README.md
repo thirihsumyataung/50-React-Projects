@@ -43,7 +43,7 @@ https://github-users-small-app.netlify.app/
 
 - project 12: Color Generator [![Netlify Status](https://api.netlify.com/api/v1/badges/fd1c7120-ad9a-40e7-95dd-589e897a52d0/deploy-status)](https://app.netlify.com/sites/goofy-nobel-f03063/deploys) https://color-generator-by-thiri.netlify.app/
 
-- project 13: Grocery Bud 
+- project 13: Grocery Bud [![Netlify Status](https://api.netlify.com/api/v1/badges/8de6dc9d-8d9d-4119-92be-98acc2aff6c2/deploy-status)](https://app.netlify.com/sites/grocery-list-by-thirihsumyataung/deploys) https://grocery-list-by-thirihsumyataung.netlify.app/
 
 
 ### ③ useRef 
