@@ -52,7 +52,7 @@ https://github-users-small-app.netlify.app/
 
 ### ④ useReducer / PropsDrilling / ContextAPi (useContext) 
 
-- project 15 : Sidebar - Modal 
+- project 15 : Sidebar - Modal [![Netlify Status](https://api.netlify.com/api/v1/badges/0e4d2f85-8ae0-437f-bc33-650080a41ddc/deploy-status)](https://app.netlify.com/sites/showmodal-page-by-thirihsumyataung/deploys)https://showmodal-page-by-thirihsumyataung.netlify.app/
 - project 16 : Submenu project [![Netlify Status](https://api.netlify.com/api/v1/badges/1ba9edc2-6bd1-4125-9177-b4be168a9d1f/deploy-status)](https://app.netlify.com/sites/submenu-project-practice-by-thiriaung/deploys)
 https://submenu-project-practice-by-thiriaung.netlify.app/
 
