@@ -39,7 +39,7 @@ https://github-users-small-app.netlify.app/
 
 - project 10: slider [![Netlify Status](https://api.netlify.com/api/v1/badges/3235f1d8-206b-42dd-aa82-34973f1d4301/deploy-status)](https://app.netlify.com/sites/small-slider-app/deploys)https://small-slider-app.netlify.app/
 
-- project 11: Iorem-Ipsum 
+- project 11: Iorem-Ipsum [![Netlify Status](https://api.netlify.com/api/v1/badges/ed43d915-4771-49b5-8596-2a6a13e77398/deploy-status)](https://app.netlify.com/sites/paragraph-generator-by-thirihsumyataung/deploys) https://paragraph-generator-by-thirihsumyataung.netlify.app/
 
 - project 12: Color Generator [![Netlify Status](https://api.netlify.com/api/v1/badges/fd1c7120-ad9a-40e7-95dd-589e897a52d0/deploy-status)](https://app.netlify.com/sites/goofy-nobel-f03063/deploys) https://color-generator-by-thiri.netlify.app/
 
