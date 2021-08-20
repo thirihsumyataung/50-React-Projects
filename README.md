@@ -39,11 +39,11 @@ https://github-users-small-app.netlify.app/
 
 - project 10: slider [![Netlify Status](https://api.netlify.com/api/v1/badges/3235f1d8-206b-42dd-aa82-34973f1d4301/deploy-status)](https://app.netlify.com/sites/small-slider-app/deploys)https://small-slider-app.netlify.app/
 
-- project 11: Iorem-Ipsum 
+- project 11: Iorem-Ipsum [![Netlify Status](https://api.netlify.com/api/v1/badges/ed43d915-4771-49b5-8596-2a6a13e77398/deploy-status)](https://app.netlify.com/sites/paragraph-generator-by-thirihsumyataung/deploys) https://paragraph-generator-by-thirihsumyataung.netlify.app/
 
 - project 12: Color Generator [![Netlify Status](https://api.netlify.com/api/v1/badges/fd1c7120-ad9a-40e7-95dd-589e897a52d0/deploy-status)](https://app.netlify.com/sites/goofy-nobel-f03063/deploys) https://color-generator-by-thiri.netlify.app/
 
-- project 13: Grocery Bud 
+- project 13: Grocery Bud [![Netlify Status](https://api.netlify.com/api/v1/badges/8de6dc9d-8d9d-4119-92be-98acc2aff6c2/deploy-status)](https://app.netlify.com/sites/grocery-list-by-thirihsumyataung/deploys) https://grocery-list-by-thirihsumyataung.netlify.app/
 
 
 ### ③ useRef 
@@ -52,7 +52,7 @@ https://github-users-small-app.netlify.app/
 
 ### ④ useReducer / PropsDrilling / ContextAPi (useContext) 
 
-- project 15 : Sidebar - Modal 
+- project 15 : Sidebar - Modal [![Netlify Status](https://api.netlify.com/api/v1/badges/0e4d2f85-8ae0-437f-bc33-650080a41ddc/deploy-status)](https://app.netlify.com/sites/showmodal-page-by-thirihsumyataung/deploys)https://showmodal-page-by-thirihsumyataung.netlify.app/
 - project 16 : Submenu project [![Netlify Status](https://api.netlify.com/api/v1/badges/1ba9edc2-6bd1-4125-9177-b4be168a9d1f/deploy-status)](https://app.netlify.com/sites/submenu-project-practice-by-thiriaung/deploys)
 https://submenu-project-practice-by-thiriaung.netlify.app/
 
@@ -72,9 +72,9 @@ https://www.markdownguide.org/cheat-sheet/
 
 - project 20 : Random User App [![Netlify Status](https://api.netlify.com/api/v1/badges/3a13acfb-8a38-446d-a346-8b461d7f5301/deploy-status)](https://app.netlify.com/sites/random-user-app-by-thirihsumyataung/deploys) https://random-user-app-by-thirihsumyataung.netlify.app/
 
-- project 21 : Girhub user Pagination  [![Netlify Status](https://api.netlify.com/api/v1/badges/bec2a155-6123-48ef-8944-22fa60329194/deploy-status)](https://app.netlify.com/sites/github-user-pagination-project-by-thirihsumyataung/deploys)https://github-user-pagination-proj
+- project 21 : Girhub user Pagination  [![Netlify Status](https://api.netlify.com/api/v1/badges/bec2a155-6123-48ef-8944-22fa60329194/deploy-status)](https://app.netlify.com/sites/github-user-pagination-project-by-thirihsumyataung/deploys)https://github-user-pagination-project-by-thirihsumyataung.netlify.app
 
-- project 22 : Stock Photos 📸
+- project 22 : Stock Photos 📸 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e8b111e-3d6b-4654-bd0a-b4a729e83286/deploy-status)](https://app.netlify.com/sites/stock-photos-by-thirihsumyataung/deploys)https://stock-photos-by-thirihsumyataung.netlify.app/
 
 ### ⑦ MomentJS
 - project 23 : Background Theme Mode👑 [![Netlify Status](https://api.netlify.com/api/v1/badges/8767cfdc-5468-4c2f-afb3-bfe619dc005d/deploy-status)](https://app.netlify.com/sites/theme-toggle-by-thiriaung/deploys)https://theme-toggle-by-thiriaung.netlify.app/
