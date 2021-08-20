@@ -86,3 +86,6 @@ https://www.markdownguide.org/cheat-sheet/
 
 ### ⑨ Axios 
 - project 26: Quiz 🧠 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf60feba-8d97-44de-b919-9b7de1edc8b2/deploy-status)](https://app.netlify.com/sites/quiz-project-by-thirihsumyataung/deploys) https://quiz-project-by-thirihsumyataung.netlify.app/
+
+### ⓵⓪ Class Component 
+- project 28 : Mini Bookstore Project : Practice for class component 
